@@ -15,3 +15,8 @@ A. Membuat Greetings Dengan WPF
 
 * Clossing
 <img src="img/fungsiexit.PNG" alt="Tampilan Clossing">
+
+* Tampilan Video
+![Tampilan Video](/img/video3014968555.mp4)
+
+
