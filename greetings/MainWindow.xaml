@@ -1,0 +1,29 @@
+﻿<Window x:Class="greetings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:greetings"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="369" Width="695">
+    <Grid Height="NaN" Margin="0,0,26,9" Width="NaN">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF1EF4EE" Offset="0.694"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="textbox" HorizontalAlignment="Left" Margin="98,93,0,0" TextWrapping="Wrap" Text="Masukkan Nama Anda" VerticalAlignment="Top" Width="399" Height="52" TextChanged="TextBox_TextChanged" Background="#FF14F22B" BorderBrush="#FF164AE6" Foreground="#FF2E2B2B" SelectionBrush="#FF128DEF"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="521,99,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.929,1.47" Height="40" Width="96" Click="Button_Click" Background="#FFC0E7E4"/>
+        <TextBlock x:Name="textblock" HorizontalAlignment="Left" Margin="98,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="54" Width="527">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF62FB3A"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="597,10,0,0" VerticalAlignment="Top" Height="26" Width="45" Click="Exit_Click" Background="#FF28EAD8"/>
+
+    </Grid>
+</Window>

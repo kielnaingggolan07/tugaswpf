@@ -1,0 +1,16 @@
+C:\Users\HP 14\source\repos\greetings\greetings\bin\Debug\greetings.exe.config
+C:\Users\HP 14\source\repos\greetings\greetings\bin\Debug\greetings.exe
+C:\Users\HP 14\source\repos\greetings\greetings\bin\Debug\greetings.pdb
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.csproj.AssemblyReference.cache
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\MainWindow.g.cs
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\App.g.cs
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings_MarkupCompile.cache
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings_MarkupCompile.lref
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\MainWindow.baml
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.g.resources
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.Properties.Resources.resources
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.csproj.GenerateResource.cache
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.csproj.CoreCompileInputs.cache
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.exe
+C:\Users\HP 14\source\repos\greetings\greetings\obj\Debug\greetings.pdb
